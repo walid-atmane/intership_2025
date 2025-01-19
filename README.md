@@ -4,7 +4,7 @@ Project Report for Submission :
 Smart Home Automation with IoT Integration
 Title Page:
 Project Title: "Smart Home Automation with IoT Integration"
-Submitted by: Atmane Walid and Kali Abdelmalek 
+Submitted by: Atmane Walid
 
 Introduction:
 This project aimed to design and implement a smart home automation system integrating IoT to enhance energy efficiency, safety, and user comfort. The system includes real-time monitoring and automated controls for climate regulation, fire safety, and intrusion detection.
