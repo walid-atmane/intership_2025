@@ -9,3 +9,4 @@ Submitted by: Atmane Walid and Kali Abdelmalek
 Introduction:
 This project aimed to design and implement a smart home automation system integrating IoT to enhance energy efficiency, safety, and user comfort. The system includes real-time monitoring and automated controls for climate regulation, fire safety, and intrusion detection.
 
+i have added a pdf file detailing diffrents aspects of the projet 
